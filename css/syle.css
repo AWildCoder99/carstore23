@@ -1,4 +1,4 @@
-.subheading {
+.subheading .bottom-nav {
 color: silver;
 background-color: rgb(3, 2, 2);
 
@@ -7,4 +7,38 @@ background-color: rgb(3, 2, 2);
 
 .class{
     background-color: black;
+}
+
+/* .tophead{
+    display: inline-block; 
+    row-gap: 10px;
+    column-gap: 20px;
+} */
+
+.card-text-b{
+    color: rgb(243, 235, 235);
+    /* background-color: rgba(23, 182, 76, 0.144); */
+    width: 55%;
+
+}
+
+
+.section3{
+    padding-top: 20%;
+}
+
+.top-line{
+    padding-bottom: 5%;
+    margin-left: 35%;
+    border: solid;
+    border-radius: 2%;
+    border-width: 1px;
+    
+}
+
+
+.footer{
+    padding-top: 20%;
+    /* background-color: black; */
+    
 }
